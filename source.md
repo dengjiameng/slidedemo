@@ -1,13 +1,13 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 邓嘉萌 (counterd@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/dengjiameng
 
 ---
 
@@ -15,9 +15,9 @@ class: center, middle
 
 ### <font color="orangered">1. 第一部分</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1 基本信息
+#### &nbsp; &nbsp; 1.2 学习编程
+#### &nbsp; &nbsp; 1.3 化学
 
 ### 2. 第二部分
 
@@ -26,6 +26,8 @@ class: center, middle
 ---
 
 ## 第一部分
+身高 175cm
+特长 游戏 小提琴
 
 ```c
 int main()
